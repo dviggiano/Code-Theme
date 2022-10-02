@@ -1,0 +1,21 @@
+{
+  "name": "dviggiano",
+  "displayName": "dviggiano",
+  "description": "Blue-based dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dviggiano",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dviggiano-color-theme.json"
+      }
+    ]
+  }
+}
